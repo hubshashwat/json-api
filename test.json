@@ -1,24 +1,42 @@
 {
-   "phones":[
-      {
-         "best_performance":{
-            "detailed_heading":"Best performance and least slowdown over time",
-            "models":[
-               "IQOO 12",
-               "IQOO Neo 7 pro",
-               "IQOO Neo 7"
-            ]
-         }
+   "phones":{
+      "best_performance":{
+         "detailed_heading":"Best performance and least slowdown over time",
+         "models":[
+            "IQOO 12",
+            "IQOO Neo 7 pro",
+            "IQOO Neo 7"
+         ]
       },
-      {
-         "best_camera":{
-            "detailed_heading":"Best Camera Phones",
-            "models":[
-               "IQOO 12",
-               "Oppo Reno 11 Pro",
-               "Vivo T2 Pro/Realme 11 Pro 5g"
-            ]
-         }
+      "best_camera":{
+         "detailed_heading":"Best Camera Phones",
+         "models":[
+            "IQOO 12",
+            "Oppo Reno 11 Pro",
+            "Vivo T2 Pro/Realme 11 Pro 5g"
+         ]
+      },
+      "non_chinese":{
+         "detailed_heading":"Best non-chinese phones",
+         "models":[
+            "Samsung S23 FE",
+            "Samsung A54",
+            "Samsung M34"
+         ]
+      },
+      "dust_resistance":{
+         "detailed_heading":"Best Phones with water/dust resistance",
+         "models":[
+            "OnePlus 11",
+            "Redmi Note 13 Pro+",
+            "Motorola Edge 40 Neo"
+         ]
+      },
+      "zero_bloatware":{
+         "detailed_heading":"Android Phone With Zero Bloatware",
+         "models":[
+            "Nothing Phone 2"
+         ]
       }
-   ]
+   }
 }
