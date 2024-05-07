@@ -1,0 +1,24 @@
+{
+   "phones":[
+      {
+         "best_performance":{
+            "detailed_heading":"Best performance and least slowdown over time",
+            "models":[
+               "IQOO 12",
+               "IQOO Neo 7 pro",
+               "IQOO Neo 7"
+            ]
+         }
+      },
+      {
+         "best_camera":{
+            "detailed_heading":"Best Camera Phones",
+            "models":[
+               "IQOO 12",
+               "Oppo Reno 11 Pro",
+               "Vivo T2 Pro/Realme 11 Pro 5g"
+            ]
+         }
+      }
+   ]
+}
