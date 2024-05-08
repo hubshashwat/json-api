@@ -9,11 +9,11 @@
          ]
       },
       "best_camera":{
-         "detailed_heading":"Best Camera Phones",
+         "detailed_heading":"Best camera phones",
          "models":[
             "IQOO 12",
             "Oppo Reno 11 Pro",
-            "Vivo T2 Pro/Realme 11 Pro 5g"
+            "Vivo T2 Pro or Realme 11 Pro 5g"
          ]
       },
       "non_chinese":{
@@ -33,7 +33,7 @@
          ]
       },
       "zero_bloatware":{
-         "detailed_heading":"Android Phone With Zero Bloatware",
+         "detailed_heading":"Android Phone with zero bloatware",
          "models":[
             "Nothing Phone 2"
          ]
