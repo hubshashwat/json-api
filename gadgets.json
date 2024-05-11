@@ -143,5 +143,22 @@
             }
          ]
       }
+   },
+   "portable_bluetooth_speakers_with_prices":{
+      "3k":{
+         "detailed_heading":"Portable bluetooth speakers under 3K",
+         "models":[
+            {
+               "name":"Mi Portable Bluetooth Speaker",
+               "link":"https://store.mi.com/in/item/3210700008",
+               "speciality":["Bang for buck", "Quality sound in price"]
+            },
+             {
+               "name":"Portronics Breeze 5 25W",
+               "link":"https://amzn.in/d/fsGg5ZL",
+               "speciality":["RGB Light show"]
+            }
+         ]
+      }
    }
 }
