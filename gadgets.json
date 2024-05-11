@@ -159,6 +159,21 @@
                "speciality":["RGB Light show"]
             }
          ]
+      },
+      "20k":{
+         "detailed_heading":"Waterproof and dustproof portable bluetooth speakers around 20k",
+         "models":[
+            {
+               "name":"Bang & Olufsen Beosound Explore",
+               "link":"https://amzn.in/d/68ZJqhJ",
+               "speciality":["Best in class quality", "Durability and longetivity"]
+            },
+             {
+               "name":"JBL Pulse 5",
+               "link":"https://amzn.in/d/6EwsRat",
+               "speciality":["RGB Light show", "Louder"]
+            }
+         ]
       }
    }
 }
