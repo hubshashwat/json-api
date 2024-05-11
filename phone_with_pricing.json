@@ -4,13 +4,13 @@
          "detailed_heading":"Under 10k",
          "models":[
             {
-               "name":"Poco M6 Pro 5G"
-               "link":"https://dl.flipkart.com/s/uGQXZXNNNN"
+               "name":"Poco M6 Pro 5G",
+               "link":"https://dl.flipkart.com/s/uGQXZXNNNN",
                "speciality":["Best Processor in segment"]
             },
             {
-               "name":"Redmi 13c"
-               "link":"https://amzn.in/d/7Cxmzbf"
+               "name":"Redmi 13c",
+               "link":"https://amzn.in/d/7Cxmzbf",
                "speciality":["Best display and camera in segment"]
             }
          ]
@@ -19,13 +19,13 @@
          "detailed_heading":"Around 15k",
          "models":[
             {
-               "name":"realme NARZO 70 5G"
-               "link":"https://www.amazon.in/realme-Storage-Dimensity-Chipset-Display/dp/B0CZS4VHP4/ref=sr_1_2?crid=2KG5XYIMOXXHX&dib=eyJ2IjoiMSJ9.Frbg-b9fdxf85CYVeYMwDHMoB44TzH_7bPEmyCSpjyO33YYUqJT2lyHRaAQDFKE_5z4ILxZ0aemHBJvv0p1-zeVjQM_Ybk04nufYhCSd6UTy0_ycmbqYt9sVnm0uHJsm17DKAWOvGdoxvLUQXVYfJyU53zhzTV6ZgB52UN6U8BM8WmEsUoUb1gJ6loG8-xQE2huHWzEgukgZBCc8MGIAMhcVMlbmOq9YsZoRlcxcBx6Du1SxO-tQwFJvI1cbgFzKPuBElyoLWOoD_QrVGTUZQ9_s8XIeKFrQidGn4pMoIIM.2u_WRvgmIVJeGYd-GlAZxdj311BuGofjy0J5VKLJLvA&dib_tag=se&keywords=narzo+70&qid=1715342945&s=electronics&sprefix=narzo+%2Celectronics%2C222&sr=1-2"
+               "name":"realme NARZO 70 5G",
+               "link":"https://www.amazon.in/realme-Storage-Dimensity-Chipset-Display/dp/B0CZS4VHP4/ref=sr_1_2?crid=2KG5XYIMOXXHX&dib=eyJ2IjoiMSJ9.Frbg-b9fdxf85CYVeYMwDHMoB44TzH_7bPEmyCSpjyO33YYUqJT2lyHRaAQDFKE_5z4ILxZ0aemHBJvv0p1-zeVjQM_Ybk04nufYhCSd6UTy0_ycmbqYt9sVnm0uHJsm17DKAWOvGdoxvLUQXVYfJyU53zhzTV6ZgB52UN6U8BM8WmEsUoUb1gJ6loG8-xQE2huHWzEgukgZBCc8MGIAMhcVMlbmOq9YsZoRlcxcBx6Du1SxO-tQwFJvI1cbgFzKPuBElyoLWOoD_QrVGTUZQ9_s8XIeKFrQidGn4pMoIIM.2u_WRvgmIVJeGYd-GlAZxdj311BuGofjy0J5VKLJLvA&dib_tag=se&keywords=narzo+70&qid=1715342945&s=electronics&sprefix=narzo+%2Celectronics%2C222&sr=1-2",
                "speciality":["Best Processor"]
             },
             {
-               "name":"Motorola g64 5G"
-               "link":"https://www.flipkart.com/motorola-g64-5g-ice-lilac-128-gb/p/itm36e3ccb6c9dee?pid=MOBGY2JUZHAXQ8ZG&lid=LSTMOBGY2JUZHAXQ8ZGKQ5SOK"
+               "name":"Motorola g64 5G",
+               "link":"https://www.flipkart.com/motorola-g64-5g-ice-lilac-128-gb/p/itm36e3ccb6c9dee?pid=MOBGY2JUZHAXQ8ZG&lid=LSTMOBGY2JUZHAXQ8ZGKQ5SOK",
                "speciality":["Large battery", "Build Quality"]
             }
          ]
@@ -34,13 +34,13 @@
          "detailed_heading":"Around 20k",
          "models":[
             {
-               "name":"IQOO Z9"
-               "link":"https://amzn.in/d/5BZE9wY"
+               "name":"IQOO Z9",
+               "link":"https://amzn.in/d/5BZE9wY",
                "speciality":["Best Processor in segment", "Faster Charging"]
             },
             {
-               "name":"Motorola Edge 40 Neo"
-               "link":"https://dl.flipkart.com/s/udToYONNNN"
+               "name":"Motorola Edge 40 Neo",
+               "link":"https://dl.flipkart.com/s/udToYONNNN",
                "speciality":["Water Proof"]
             }
          ]
@@ -49,13 +49,13 @@
          "detailed_heading":"Around 30k",
          "models":[
             {
-               "name":"iQOO Neo9 Pro 5G"
-               "link":"https://amzn.in/d/0jrIJ0L"
+               "name":"iQOO Neo9 Pro 5G",
+               "link":"https://amzn.in/d/0jrIJ0L",
                "speciality":["Best Processor in segment", "Faster Charging"]
             },
             {
-               "name":"Motorola Edge 50 Pro 5G"
-               "link":"https://dl.flipkart.com/s/N1o0jVuuuN"
+               "name":"Motorola Edge 50 Pro 5G",
+               "link":"https://dl.flipkart.com/s/N1o0jVuuuN",
                "speciality":["Water Proof"]
             }
          ]
@@ -64,8 +64,8 @@
          "detailed_heading":"Around 50k",
          "models":[
             {
-               "name":"iQOO 12 5G"
-               "link":"https://amzn.in/d/2DYxl70"
+               "name":"iQOO 12 5G",
+               "link":"https://amzn.in/d/2DYxl70",
                "speciality":["Best Processor in segment", "Faster Charging", "Great Camera"]
             }
          ]
@@ -74,8 +74,8 @@
          "detailed_heading":"Best Phone without worrying about money",
          "models":[
              {
-               "name":"Samsung Galaxy S24 Ultra 5G AI Smartphone"
-               "link":"https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5Y7H6T/ref=sr_1_1?crid=32A189T8SAUMY&dib=eyJ2IjoiMSJ9.jMn3WviE2kR_fsDJ-_9zEa_TeM4-RzDK-fLvPfUdOzXctmeNw3wU1hQLzpBwr5JAoD6yUJOjTiA_Jqv3pcVqYjIxChinPXG9mxfVqqG4B3Wkr-fR2sIorJWnxvm7x-y90uSvshSt3ev0iHTm2tLmC9wA8eRal53xYgCsXPQRwRrL9pgmy-SIMkc-KM6aSrOPJKayVWuMV8HIbKewuSGhRGpmbgYJko3rWJzgkuAAytXgGPb7I9YO8WUh2M7FRU-ul-lUulO8xvT6TLtnz9L-94DTO4SBSQXOnfK80y0zI-c.koVaMkltrWBhYCVAnz77_nbptfIBvrssPodS4CAPfiE&dib_tag=se&keywords=samsung%2Bgalaxy%2Bs24%2Bultra&qid=1715343490&s=electronics&sprefix=Samsung%2Bgalaxy%2Bs24%2B%2Celectronics%2C203&sr=1-1&th=1"
+               "name":"Samsung Galaxy S24 Ultra 5G AI Smartphone",
+               "link":"https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5Y7H6T/ref=sr_1_1?crid=32A189T8SAUMY&dib=eyJ2IjoiMSJ9.jMn3WviE2kR_fsDJ-_9zEa_TeM4-RzDK-fLvPfUdOzXctmeNw3wU1hQLzpBwr5JAoD6yUJOjTiA_Jqv3pcVqYjIxChinPXG9mxfVqqG4B3Wkr-fR2sIorJWnxvm7x-y90uSvshSt3ev0iHTm2tLmC9wA8eRal53xYgCsXPQRwRrL9pgmy-SIMkc-KM6aSrOPJKayVWuMV8HIbKewuSGhRGpmbgYJko3rWJzgkuAAytXgGPb7I9YO8WUh2M7FRU-ul-lUulO8xvT6TLtnz9L-94DTO4SBSQXOnfK80y0zI-c.koVaMkltrWBhYCVAnz77_nbptfIBvrssPodS4CAPfiE&dib_tag=se&keywords=samsung%2Bgalaxy%2Bs24%2Bultra&qid=1715343490&s=electronics&sprefix=Samsung%2Bgalaxy%2Bs24%2B%2Celectronics%2C203&sr=1-1&th=1",
                "speciality":["The undisputed king of smartphones except for the fast charging where it loses to IQOO 12 5G"]
             }
          ]
