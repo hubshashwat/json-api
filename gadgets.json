@@ -128,6 +128,26 @@
       }
    },
    "headphones_with_prices":{
+       "1.5k":{
+         "detailed_heading":"Under 1.5k",
+         "models":[
+            {
+               "name":"ZEBRONICS Duke Wireless Headphone",
+               "link":"https://amzn.in/d/6niEGoo",
+               "speciality":["Bang for buck"]
+            }
+         ]
+      },
+      "5k":{
+         "detailed_heading":"Under 5k",
+         "models":[
+            {
+               "name":"Sony WH-CH520",
+               "link":"https://amzn.in/d/5oZiw6v",
+               "speciality":["Longetivity"]
+            }
+         ]
+      },
       "25k":{
          "detailed_heading":"Best headphones in 25k",
          "models":[
