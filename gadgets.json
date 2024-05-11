@@ -126,5 +126,22 @@
             }
          ]
       }
+   },
+   "headphones_with_prices":{
+      "25k":{
+         "detailed_heading":"A great headphone in 25k",
+         "models":[
+            {
+               "name":"Sony WH-1000XM5",
+               "link":"https://amzn.in/d/9GlqQ4Q",
+               "speciality":["Best noise cancellation and ambient mode", "Best headphones for calling", "Great sound for price", "Longetivity"]
+            },
+             {
+               "name":"Sennheiser Momentum 4 Wireless",
+               "link":"https://amzn.in/d/abuPUaJ",
+               "speciality":["Tidbit more comfortable and cheaper than Sony WH-1000XM5"]
+            }
+         ]
+      }
    }
 }
