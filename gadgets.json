@@ -80,5 +80,17 @@
             }
          ]
       }
+   },
+   "laptops_with_prices":{
+      "30k" : {
+         detailed_heading":"Around 30k",
+         "models":[
+            {
+               "name":"",
+               "link":"",
+               "speciality":["Best budegt laptop"]
+            }
+         ]
+      }
    }
 }
