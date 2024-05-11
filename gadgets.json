@@ -83,12 +83,46 @@
    },
    "laptops_with_prices":{
       "30k" : {
-         detailed_heading":"Around 30k",
+         "detailed_heading":"Around 30k",
          "models":[
             {
-               "name":"",
-               "link":"",
-               "speciality":["Best budegt laptop"]
+               "name":"ASUS Vivobook Go 14",
+               "link":"https://amzn.in/d/jk4cJQj",
+               "speciality":["Best budegt laptop overall", "Light", "SSD"],
+               "model":"E1404FA-NK325WS"
+            }
+         ]
+      },
+      "50k" : {
+         "detailed_heading":"A budget developer machine around 50k",
+         "models":[
+            {
+               "name":"ASUS Vivobook 15 OLED (2023)",
+               "link":"https://amzn.in/d/eGngdop",
+               "speciality":["Great display"],
+               "model":"M1505YA-LK541WS"
+            }
+         ]
+      },
+       "70k" : {
+         "detailed_heading":"A budget developer and gaming machine with graphics card around 70k",
+         "models":[
+            {
+               "name":"ASUS Vivobook Pro 15 OLED",
+               "link":"https://amzn.in/d/jkRSI9N",
+               "speciality":["Great display"],
+               "model":"M3500QC-L1712WS"
+            }
+         ]
+      },
+      "100k" : {
+         "detailed_heading":"Gaming laptop around 100k",
+         "models":[
+            {
+               "name":"HP Omen Gaming Laptop",
+               "link":"https://amzn.in/d/4JgE520",
+               "speciality":["Best gaming laptop with similar features"],
+               "model":"16-xf0059AX"
             }
          ]
       }
