@@ -79,6 +79,16 @@
                "speciality":["The best smartphone except for the fast charging"]
             }
          ]
+      },
+      "max-camera":{
+         "detailed_heading":"Best Camera Phone - Price No Bar",
+         "models":[
+             {
+               "name":"Vivo X100 Pro",
+               "link":"https://dl.flipkart.com/s/PmAYw3uuuN",
+               "speciality":["The camera best smartphone for practical shots"]
+            }
+         ]
       }
    },
    "laptops_with_prices":{
