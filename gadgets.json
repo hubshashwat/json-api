@@ -91,6 +91,23 @@
          ]
       }
    },
+   "wifi_tablets_with_prices":{
+      "25k" : {
+         "detailed_heading":"Wifi Tablets Under 25k",
+         "models":[
+            {
+               "name":"Xiaomi Pad 6",
+               "link":"https://amzn.in/d/613xAle",
+               "speciality":["Best processor in segment"]
+            },
+            {
+               "name":"HONOR Pad 9",
+               "link":"https://amzn.in/d/iGRA0fA",
+               "speciality":["Free bluetooth keyboard but a slower processor"]
+            }
+         ]
+      }
+   },
    "laptops_with_prices":{
       "30k" : {
          "detailed_heading":"Around 30k",
