@@ -96,14 +96,41 @@
          "detailed_heading":"Wifi Tablets Under 25k",
          "models":[
             {
-               "name":"Xiaomi Pad 6",
-               "link":"https://amzn.in/d/613xAle",
-               "speciality":["Best processor in segment"]
-            },
+               "name":"Xiaomi Pad 7",
+               "link":"https://amzn.in/d/4lcFYCv",
+               "speciality":["Best tab in segment"]
+            }
+         ]
+      },
+      "35k" : {
+         "detailed_heading":"Wifi Tablets Around 35k",
+         "models":[
             {
-               "name":"HONOR Pad 9",
-               "link":"https://amzn.in/d/iGRA0fA",
-               "speciality":["Free bluetooth keyboard but a slower processor"]
+               "name":"Xiaomi Pad 7",
+               "link":"https://amzn.in/d/4lcFYCv",
+               "speciality":["Best tab in segment"]
+            }
+         ]
+      },
+      "50k" : {
+               "detailed_heading":"Best Wifi Tablet around 50K",
+         "models":[
+            {
+               "name":"Oneplus Pad 3",
+               "link":"https://amzn.in/d/4OLXmJ1",
+               "speciality":["Best tab in segment"]
+            }
+         ]
+      },
+      "max" : {
+               "detailed_heading":"Best Wifi Tablet",
+         "models":[
+            {
+               "name":"Oneplus Pad 3",
+               "link":"https://amzn.in/d/hSBu1SM",
+               "speciality":["Best tab in segment"]
+            }
+         ]
             }
          ]
       }
