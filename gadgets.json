@@ -15,23 +15,8 @@
             }
          ]
       },
-       "15k":{
-         "detailed_heading":"Around 15k",
-         "models":[
-            {
-               "name":"realme NARZO 70 5G",
-               "link":"https://www.amazon.in/realme-Storage-Dimensity-Chipset-Display/dp/B0CZS4VHP4/ref=sr_1_2?crid=2KG5XYIMOXXHX&dib=eyJ2IjoiMSJ9.Frbg-b9fdxf85CYVeYMwDHMoB44TzH_7bPEmyCSpjyO33YYUqJT2lyHRaAQDFKE_5z4ILxZ0aemHBJvv0p1-zeVjQM_Ybk04nufYhCSd6UTy0_ycmbqYt9sVnm0uHJsm17DKAWOvGdoxvLUQXVYfJyU53zhzTV6ZgB52UN6U8BM8WmEsUoUb1gJ6loG8-xQE2huHWzEgukgZBCc8MGIAMhcVMlbmOq9YsZoRlcxcBx6Du1SxO-tQwFJvI1cbgFzKPuBElyoLWOoD_QrVGTUZQ9_s8XIeKFrQidGn4pMoIIM.2u_WRvgmIVJeGYd-GlAZxdj311BuGofjy0J5VKLJLvA&dib_tag=se&keywords=narzo+70&qid=1715342945&s=electronics&sprefix=narzo+%2Celectronics%2C222&sr=1-2",
-               "speciality":["Best Processor"]
-            },
-            {
-               "name":"Motorola g64 5G",
-               "link":"https://www.flipkart.com/motorola-g64-5g-ice-lilac-128-gb/p/itm36e3ccb6c9dee?pid=MOBGY2JUZHAXQ8ZG&lid=LSTMOBGY2JUZHAXQ8ZGKQ5SOK",
-               "speciality":["Large battery", "Build quality"]
-            }
-         ]
-      },
       "20k":{
-         "detailed_heading":"Around 20k",
+         "detailed_heading":"Under 20k",
          "models":[
             {
                "name":"IQOO Z9",
