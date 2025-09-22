@@ -24,18 +24,23 @@
                "speciality":["Best processor in segment", "Faster Charging"]
             },
             {
-               "name":"Motorola Edge 50 Fusion",
-               "link":"https://dl.flipkart.com/s/8pu8!DuuuN",
+               "name":"Motorola Edge 60 Fusion",
+               "link":"https://dl.flipkart.com/s/DfZoO!uuuN",
                "speciality":["Water-proof", "Dust-proof", "Fast Charging", "Good Connectivity"]
             }
          ]
       },
       "35k":{
-         "detailed_heading":"Around 35k",
+         "detailed_heading":"Under 35k",
          "models":[
             {
-               "name":"Oneplus 13R 5G",
-               "link":"https://amzn.in/d/8ZMzuYQ",
+               "name":"Motorola Edge 60 Pro",
+               "link":"https://dl.flipkart.com/s/qcuyJTNNNN",
+               "speciality":["Water Proof","Dust Proof"]
+            },
+            {
+               "name":"iQOO Neo 10",
+               "link":"https://amzn.in/d/bqjrK7O",
                "speciality":["Best processor in segment", "Faster charging"]
             }
          ]
