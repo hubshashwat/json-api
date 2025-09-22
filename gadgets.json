@@ -1,17 +1,17 @@
 {
    "phones_with_prices":{
       "10k" : {
-         "detailed_heading":"Under 10k",
+         "detailed_heading":"Around 10k",
          "models":[
             {
-               "name":"Poco M6 Pro 5G",
-               "link":"https://dl.flipkart.com/s/uGQXZXNNNN",
-               "speciality":["Best processor in segment"]
+               "name":"Vivo T4",
+               "link":"https://dl.flipkart.com/s/DaaKx!uuuN",
+               "speciality":["Durable"]
             },
             {
-               "name":"Redmi 13c",
-               "link":"https://amzn.in/d/7Cxmzbf",
-               "speciality":["Best display and camera in segment"]
+               "name":"Samsung M16",
+               "link":"https://amzn.in/d/f3hTZbh",
+               "speciality":["Non-chinese Brand", "Full HD disply"]
             }
          ]
       },
