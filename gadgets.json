@@ -45,18 +45,13 @@
             }
          ]
       },
-      "30k":{
-         "detailed_heading":"Around 30k",
+      "35k":{
+         "detailed_heading":"Around 35k",
          "models":[
             {
-               "name":"iQOO Neo9 Pro 5G",
-               "link":"https://amzn.in/d/0jrIJ0L",
+               "name":"Oneplus 13R 5G",
+               "link":"https://amzn.in/d/8ZMzuYQ",
                "speciality":["Best processor in segment", "Faster charging"]
-            },
-            {
-               "name":"Motorola Edge 50 Pro 5G",
-               "link":"https://dl.flipkart.com/s/N1o0jVuuuN",
-               "speciality":["Water-proof", "Dust-proof"]
             }
          ]
       },
@@ -67,6 +62,11 @@
                "name":"iQOO 13 5G",
                "link":"https://amzn.in/d/hlID7D3",
                "speciality":["Best processor in segment", "Faster charging", "Great camera"]
+            },
+            {
+               "name":"Nothing Phone 3",
+               "link":"https://dl.flipkart.com/s/qa8Ql8NNNN",
+               "speciality":"Zero Bloatware, Quirky Design"
             }
          ]
       },
