@@ -89,6 +89,16 @@
                "speciality":["The best camera smartphone for practical shots, potraits and low-light photos"]
             }
          ]
+      },
+      "foldable":{
+         "detailed_heading":"No compromise foldable phone with large display",
+         "models":[
+            {
+               "name":"Samsung Galaxy Fold 7",
+               "link":"https://amzn.in/d/iRgCjlh",
+               "speciality":["Best processor, Great display"]
+            }
+         ]
       }
    },
    "wifi_tablets_with_prices":{
