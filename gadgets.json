@@ -178,9 +178,9 @@
 "models":[
 {
 "name": "ASUS Vivobook Go 14",
-"link": "https://amzn.in/d/jk4cJQj",
+"link": "https://amzn.in/d/eROlC55",
 "speciality":["Best budget laptop overall", "Light"],
-"model": "E1404FA-NK325WS"
+"model": "E1404F04FA-NK5541WS"
 }
 ]
 },
@@ -188,32 +188,21 @@
 "detailed_heading": "A budget developer machine around 50k",
 "models":[
 {
-"name": "ASUS Vivobook 15 OLED (2023)",
-"link": "https://amzn.in/d/eGngdop",
-"speciality":["Great display"],
-"model": "M1505YA-LK541WS"
+"name": "ASUS Vivobook 14",
+"link": "https://amzn.in/d/daTIPnS",
+"speciality":["Great Processor"],
+"model": "M1407KA-LY131WS"
 }
 ]
 },
-"70k": {
+"80k": {
 "detailed_heading": "A budget developer and gaming machine with graphics card around 70k",
 "models":[
 {
-"name": "ASUS Vivobook Pro 15 OLED",
-"link": "https://amzn.in/d/jkRSI9N",
+"name": "ASUS Zenbook 14 OLED",
+"link": "https://amzn.in/d/3bTleGD",
 "speciality":["Great display"],
-"model": "M3500QC-L1712WS"
-}
-]
-},
-"100k": {
-"detailed_heading": "Gaming laptop around 100k",
-"models":[
-{
-"name": "HP Omen Gaming Laptop",
-"link": "https://amzn.in/d/4JgE520",
-"speciality":["Best gaming laptop with similar features"],
-"model": "16-xf0059AX"
+"model": "UM3406KA-PP240WS"
 }
 ]
 }
