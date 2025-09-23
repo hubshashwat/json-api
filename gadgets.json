@@ -208,23 +208,13 @@
 }
 },
 "headphones_with_prices": {
-"1.5k": {
-"detailed_heading": "Under 1.5k",
+"15k": {
+"detailed_heading": "Around 15k",
 "models":[
 {
-"name": "ZEBRONICS Duke Wireless Headphone",
-"link": "https://amzn.in/d/6niEGoo",
-"speciality":["Bang for buck"]
-}
-]
-},
-"5k": {
-"detailed_heading": "Under 5k",
-"models":[
-{
-"name": "Sony WH-CH520",
-"link": "https://amzn.in/d/5oZiw6v",
-"speciality":["Longetivity"]
+"name": "Sony WH-1000XM4",
+"link": "https://amzn.in/d/0qvcLrp",
+"speciality":["Great Audio Quality for Price","Travel Friendly","Bang for buck"]
 }
 ]
 },
