@@ -77,17 +77,17 @@
           ]
         },
         {
-          "name": "Nothing Phone 3",
-          "link": "https://dl.flipkart.com/s/qa8Ql8NNNN",
-          "speciality": [
-            "Zero Bloatware, Quirky Design"
-          ]
-        },
-        {
           "name": "Oneplus 13s",
           "link": "https://amzn.in/d/fy3jVaP",
           "speciality": [
             "Less Bloatware, Compact Form Factor"
+          ]
+        },
+        {
+          "name": "Nothing Phone 3",
+          "link": "https://dl.flipkart.com/s/qa8Ql8NNNN",
+          "speciality": [
+            "Zero Bloatware, Quirky Design"
           ]
         }
       ]
